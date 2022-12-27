@@ -55,20 +55,20 @@ public class Main {
         int oneMinute = a / b;
         int time = 20;
         int overBot = time * oneMinute;
-        System.out.println(" За " +  time + " минут "  + " машина произвела " + overBot + " штук бутылок ");
+        System.out.println(" За " +  time + " минут "  + " машина произвела " + overBot + " штук бутылок " );
         int c = 60;
         int d = c * oneMinute;
         int kHour = 24;
         int zBot = d * kHour;
-        System.out.println(" За " + kHour + " часа, машина произвела " + zBot + " штук бутылок ");
+        System.out.println(" За " + kHour + " часа, машина произвела " + zBot + " штук бутылок " );
         int xDay = 24;
         int lDay = xDay * 3;
         int mBot = 480;
         int gBot = lDay * mBot;
-        System.out.println( " За " + lDay  + " часа, машина произвела " + gBot + " штук бутылок ");
+        System.out.println( " За " + lDay  + " часа, машина произвела " + gBot + " штук бутылок " );
         int uDay = lDay * 10;
         int eBot = uDay * mBot;
-        System.out.println( " За " + uDay  + " часов, машина произвела " + eBot + " штук бутылок ");
+        System.out.println( " За " + uDay  + " часов, машина произвела " + eBot + " штук бутылок " );
     }
     public static void transient5() {
         System.out.println("work5");
